@@ -1,2 +1,2 @@
 # wmc
-Windows Memory Cleaner Too - C/C++ source code
+Windows Memory Cleaner Tool - C/C++ source code

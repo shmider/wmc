@@ -2,6 +2,14 @@
 
 <strong>WMC – Windows Memory Cleaner</strong> –  a free tool to clean memory on the Windows operating system, aka memory cleaner.
 
+<h3>There are 2 project of the tool:</h3>
+<ul>
+ <li><strong>WMC</strong> - a GUI version of the tool</li>
+ <li><strong>WMCCli</strong> - a command line interface version of the tool</li>
+ </ul>
+ 
+ You can see below the screen from both of the tool version. 
+
 ![Windows Memory Cleaner](https://user-images.githubusercontent.com/12503476/145265025-0ace413c-82af-43e8-9264-0842967c7352.png)
 
 

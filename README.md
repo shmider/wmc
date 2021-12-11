@@ -1,4 +1,4 @@
-# <h2>WMC - Windows Memory Cleaner Tool - C/C++ source code</h2>
+# <h2>Windows Memory Cleaner Tool - WMC - C/C++ source code</h2>
 
 <strong>WMC – Windows Memory Cleaner</strong> –  a free tool to clean memory on the Windows operating system, aka memory cleaner.
 

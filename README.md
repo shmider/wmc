@@ -50,3 +50,4 @@
 
 The software is provided "AS IS" without any warranty, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The author will not be liable for any special, incidental, consequential, or indirect damages due to loss of data or any other reason.
 
+You can read more about it using this link <a href="https://openport.net/windows-memory-cleaner-tool/" title="Windows Memory Cleaner">Windows Memory Cleaner</a>
